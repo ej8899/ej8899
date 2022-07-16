@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ej8899
 - 👀 I’m interested in ... a wide variety of things
-- 🌱 I’m currently learning ... web development - full stack.
+- 🌱 I’m currently learning ... web development - full stack
+ (LightHouseLabs boot camp)
 - 💞️ I’m looking to collaborate on ... new projects
 - 📫 How to reach me ... ej8899@gmail.com
 
