@@ -7,31 +7,32 @@
         \_/\_/  |_____||_____|\____| \___/ |___|___||_____||__|
 
 
-- 👋 Hi, I’m @ej8899
-- 👀 I’m interested in ... 
-    - full stack web development
-    - mobile application development
-- 🌱 I’m currently learning ... 
-    - 2022 - LightHouseLabs - web development - full stack, including JS, Ruby, Express
-- 💻 Developer Experience:
-    - 1990's C / C++ / PHP / Perl / mySQL / basic HTML
-    - 1980's BASIC, Assembly (Commodore & Tandy 🕹️)
-- 👷‍♂️ I’m looking to collaborate on ... 
-    - new learning experiences
-    - rpg style game development
-- 📫 How to reach me ... ej8899@gmail.com
+### 👋 Hi, I’m @ej8899 ###
+### 👀 I’m interested in ...  ###
+  - full stack web development
+  - mobile application development
+### 🌱 I’m currently learning ... ###
+  - 2022 - LightHouseLabs - web development - full stack, including JS, Ruby, Express
+### 💻 Developer Experience ... ###
+  - 1990's C / C++ / PHP / Perl / mySQL / basic HTML
+  - 1980's BASIC, Assembly (Commodore & Tandy 🕹️)
+### 👷‍♂️ I’m looking to collaborate on ... ###
+  - construction related development projects
+  - rpg style game development
+### 📫 How to reach me ... ###
+  - ej8899@gmail.com
 
-Full Tech Stack:  
+### Full Tech Stack:  ###
 ![#](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-Tech Libraries:  
+### Tech Libraries:  ###
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white) ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white) ![](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 <!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- --->
 
-My Workspace:  
+### My Workspace:  ###
 ![](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-Social (coming soon):  
+### Social (coming soon): ### 
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 <!---
