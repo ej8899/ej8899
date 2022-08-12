@@ -8,10 +8,16 @@
 
 
 - 👋 Hi, I’m @ej8899
-- 👀 I’m interested in ... a wide variety of things
+- 👀 I’m interested in ... 
+    - full stack web development
+    - mobile application development
 - 🌱 I’m currently learning ... 
-   2022 - LightHouseLabs - web development - full stack, including JS, Ruby, 
-- 💞️ I’m looking to collaborate on ... new projects
+    - 2022 - LightHouseLabs - web development - full stack, including JS, Ruby, Express
+- 💻 Developer Experience:
+    - 1990's C / C++ / PHP / Perl / mySQL / basic HTML
+- 👷‍♂️ I’m looking to collaborate on ... 
+    - new learning experiences
+    - rpg style game development
 - 📫 How to reach me ... ej8899@gmail.com
 
 <!---
