@@ -17,7 +17,7 @@
   - 1990's C / C++ / PHP / Perl / mySQL / basic HTML
   - 1980's BASIC, Assembly (Commodore & Tandy 🕹️)
 ### 👷‍♂️ I’m looking to collaborate on ... ###
-  - construction related development projects
+  - construction industry related development projects
   - rpg style game development
 ### 📫 How to reach me ... ###
   - ej8899@gmail.com
