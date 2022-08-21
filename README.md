@@ -13,6 +13,11 @@
   - mobile application development
 ### 🌱 I’m currently learning ... ###
   - 2022 - LightHouseLabs - web development - full stack, including JS, Ruby, Express
+      - Node.JS
+      - Express.JS
+      - Bootstrap library
+      - 
+      - SASS
 ### 💻 Developer Experience ... ###
   - 1990's C / C++ / PHP / Perl / mySQL / basic HTML
   - 1980's BASIC, Assembly (Commodore & Tandy 🕹️)
