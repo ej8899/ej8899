@@ -16,7 +16,6 @@
       - Node.JS
       - Express.JS
       - Bootstrap library
-      - 
       - SASS
 ### 💻 Developer Experience ... ###
   - 1990's C / C++ / PHP / Perl / mySQL / basic HTML
