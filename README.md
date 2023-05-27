@@ -22,15 +22,18 @@
       - Node.JS
       - Express.JS
       - Bootstrap library
+      - PostgreSQL
       - SASS
 ### 💻 Developer Experience ... ###
   - 2010's HTML / Wordpress
   - 2000's HTML / Perl / PHP / mySQL --> early days of e-commerce!
-  - 2000's C / C++ --> Palm Pilot & 📟 Blackberry)
-  - 1990's C / C++  --> Shareware & Commercial APplication Developer (Windows/DOS/Palm Pilot)
+  - 2000's C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.
+  - 1990's C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)
   - 1980's BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy) 
 ### 👷‍♂️ I’m looking to collaborate on ... ###
   - construction industry related development projects
+  - mapping related development projects
+  - technology & health related development projects
   - rpg style game development
 ### 📫 How to reach me ... ###
   - ej8899@gmail.com
