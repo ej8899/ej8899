@@ -27,7 +27,7 @@
   - 2010's HTML / Wordpress
   - 2000's HTML / Perl / PHP / mySQL --> early days of e-commerce!
   - 2000's C / C++ --> Palm Pilot & 📟 Blackberry)
-  - 1990's C / C++  --> Shareware Developer (Windows/DOS/Palm Pilot)
+  - 1990's C / C++  --> Shareware & Commercial APplication Developer (Windows/DOS/Palm Pilot)
   - 1980's BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy) 
 ### 👷‍♂️ I’m looking to collaborate on ... ###
   - construction industry related development projects
