@@ -57,7 +57,7 @@
 ---
 ### GitHub Stats:
 <a href="https://github.com/ej8899">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ej8899&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true" />
 </a>
 <a href="https://github.com/ej8899">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
