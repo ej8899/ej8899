@@ -57,15 +57,16 @@
 ---
 ### GitHub Stats:
 <a href="https://github.com/ej8899">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 <a href="https://github.com/ej8899">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </a>
+<!---
 ![](https://github-readme-stats.vercel.app/api?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+--->
 ---
 ### Random Dev Quote
 <p align="center" width="100%">
