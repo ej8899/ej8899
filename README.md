@@ -8,7 +8,7 @@
 
 
 ### 👋 Hi, I’m @ej8899 ###
-### $${\color{red}Working On}$$👀 I’m interested in ...  ###
+### 👀 I’m interested in ...  ###
   - full stack web development
   - mobile application development
 ### 🌱 I’m currently learning ... ###
