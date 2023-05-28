@@ -54,16 +54,15 @@
 ### Social (coming soon): ### 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
+---
+
+### Random Dev Quote
 <p align="center" width="100%">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
-<!---
-### Random Dev Quote
 
 
-<p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
+
 
 
 ### GitHub Stats:
@@ -71,7 +70,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
+<!---
 ej8899/ej8899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
