@@ -41,6 +41,14 @@ mobile application development
 <br />
 
 <h3>💻 Developer Experience</h3>
+<table>
+    <tr><td>2023+</td><td>HTML / CSS / Javascript / Python & beyond</td></tr>
+    <tr><td></td><td></td></tr>
+    <tr><td></td><td></td></tr>
+    <tr><td></td><td></td></tr>
+    <tr><td></td><td></td></tr>
+    <tr><td></td><td></td></tr>
+</table>
 2023+ HTML / CSS / Javascript / Python & beyond
 2010's HTML / Wordpress<br />
 2000's HTML / Perl / PHP / mySQL --> early days of e-commerce!<br />
