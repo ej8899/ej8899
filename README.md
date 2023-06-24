@@ -42,19 +42,13 @@ mobile application development
 
 <h3>💻 Developer Experience</h3>
 <table>
-    <tr><td>2023+</td><td>HTML / CSS / Javascript / Python & beyond</td></tr>
-    <tr><td></td><td></td></tr>
-    <tr><td></td><td></td></tr>
-    <tr><td></td><td></td></tr>
-    <tr><td></td><td></td></tr>
-    <tr><td></td><td></td></tr>
+    <tr><td>2023 +</td><td>HTML / CSS / Javascript / Python & beyond</td></tr>
+    <tr><td>2010's</td><td>HTML / Wordpress</td></tr>
+    <tr><td>2000's</td><td>HTML / Perl / PHP / mySQL --> early days of e-commerce!</td></tr>
+    <tr><td>2000's</td><td>C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.</td></tr>
+    <tr><td>1990's</td><td>C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)</td></tr>
+    <tr><td>1980's</td><td>BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy) </td></tr>
 </table>
-2023+ HTML / CSS / Javascript / Python & beyond
-2010's HTML / Wordpress<br />
-2000's HTML / Perl / PHP / mySQL --> early days of e-commerce!<br />
-2000's C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.<br />
-1990's C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)<br />
-1980's BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy) <br />
 
 <br />
 
