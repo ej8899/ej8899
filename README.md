@@ -20,28 +20,10 @@
 <br />
 
 <div align="center">
-       
- 
- 👀 I’m interested in ...  
-full stack web development
-mobile application development
- 🌱 I’m currently learning ... 
-2023 - Application Cybersecurity
-      Advanced React
-      Svelte
-      Typescript
-      Swift
-      Python
-2022 - LightHouseLabs - web development - full stack, including JS, Ruby, Express
-      Node.JS
-      Express.JS
-      Bootstrap library
-      PostgreSQL
-      SASS
-<br />
+
 
 <table width=70%>
-    <tr><th colspan=2 align=left><h3>💻 Developer Education...</h3></th></tr>
+      <tr><th colspan=2 align=left><h3>🌱  Developer Education...</h3></th></tr>
     <tr><td valign=top>2023</td><td>
       <li>Application Cybersecurity
       <li>Svelte
@@ -50,10 +32,7 @@ mobile application development
       <li>Python
     </td></tr>
     <tr><td>2022</td><td>Lighthouse Labs - full stack web development program to include JS, Ruby, ExpressJS</td></tr>
-</table>
-
-
-<table width=70%>
+  
     <tr><th colspan=2 align=left><h3>💻 Developer Experience...</h3></th></tr>
     <tr><td>2023 +</td><td>HTML / CSS / Javascript / PostgreSQL / Python & beyond</td></tr>
     <tr><td>2010's</td><td>HTML / Wordpress</td></tr>
