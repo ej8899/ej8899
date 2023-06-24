@@ -1,3 +1,4 @@
+<div align="center">
        __    __    ___  _        __   ___   ___ ___    ___  __ 
       |  |__|  |  /  _]| |      /  ] /   \ |   |   |  /  _]|  |
       |  |  |  | /  [_ | |     /  / |     || _   _ | /  [_ |  |
@@ -75,7 +76,7 @@
 </p>
 
 ---
-
+</div>
 <!---
 ![](https://github-readme-stats.vercel.app/api?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
