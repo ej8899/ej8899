@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="left" src="https://github.com/zeucapua/zeucapua/blob/e41d1afbe120a47951c2b8e309c830330f8d802e/zeudev_circles.png" height="120" />
+  
   <h3>👋 Hello, I'm Ernie</h3>
   <p>
     A fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems.
@@ -21,10 +21,6 @@
 
 <div align="center">
        
- <h3>👋 Hi, I’m Ernie</h3>
- <p>A fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems.</p>
-
-
  
 ### 👀 I’m interested in ...  ###
   - full stack web development
