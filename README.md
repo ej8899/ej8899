@@ -40,9 +40,9 @@ mobile application development
       SASS
 <br />
 
-<table>
+<table width=70%>
     <tr><th colspan=2 align=left><h3>💻 Developer Education...</h3></th></tr>
-    <tr><td>2023</td><td>
+    <tr><td valign=top>2023</td><td>
       <li>Application Cybersecurity
       <li>Svelte
       <li>Typescript
@@ -53,7 +53,7 @@ mobile application development
 </table>
 
 
-<table>
+<table width=70%>
     <tr><th colspan=2 align=left><h3>💻 Developer Experience...</h3></th></tr>
     <tr><td>2023 +</td><td>HTML / CSS / Javascript / PostgreSQL / Python & beyond</td></tr>
     <tr><td>2010's</td><td>HTML / Wordpress</td></tr>
