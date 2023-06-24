@@ -23,27 +23,32 @@
        
  
  👀 I’m interested in ...  
-  - full stack web development
-  - mobile application development
+full stack web development
+mobile application development
  🌱 I’m currently learning ... 
-  - 2023 - Application Cybersecurity
-      - Advanced React
-      - Svelte
-      - Typescript
-      - Swift
-      - Python
-  - 2022 - LightHouseLabs - web development - full stack, including JS, Ruby, Express
-      - Node.JS
-      - Express.JS
-      - Bootstrap library
-      - PostgreSQL
-      - SASS
- 💻 Developer Experience ... 
-  - 2010's HTML / Wordpress
-  - 2000's HTML / Perl / PHP / mySQL --> early days of e-commerce!
-  - 2000's C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.
-  - 1990's C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)
-  - 1980's BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy) 
+2023 - Application Cybersecurity
+      Advanced React
+      Svelte
+      Typescript
+      Swift
+      Python
+2022 - LightHouseLabs - web development - full stack, including JS, Ruby, Express
+      Node.JS
+      Express.JS
+      Bootstrap library
+      PostgreSQL
+      SASS
+<br />
+
+<h3>💻 Developer Experience</h3>
+2010's HTML / Wordpress
+2000's HTML / Perl / PHP / mySQL --> early days of e-commerce!
+2000's C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.
+1990's C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)
+1980's BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy) 
+
+<br />
+
  👷‍♂️ I’m looking to collaborate on ... 
   - construction industry related development projects
   - mapping related development projects
