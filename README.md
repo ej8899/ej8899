@@ -40,8 +40,9 @@ mobile application development
       SASS
 <br />
 
-<h3>💻 Developer Experience</h3>
+
 <table>
+    <th><h3>💻 Developer Experience</h3></th>
     <tr><td>2023 +</td><td>HTML / CSS / Javascript / Python & beyond</td></tr>
     <tr><td>2010's</td><td>HTML / Wordpress</td></tr>
     <tr><td>2000's</td><td>HTML / Perl / PHP / mySQL --> early days of e-commerce!</td></tr>
