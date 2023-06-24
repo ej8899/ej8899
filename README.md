@@ -1,6 +1,31 @@
 <div align="center">
+  <img align="left" src="https://github.com/zeucapua/zeucapua/blob/e41d1afbe120a47951c2b8e309c830330f8d802e/zeudev_circles.png" height="120" />
+  <h3>Hello, I'm Ernie</h3>
+  <p>
+    A fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems.
+  </p>
+  <div align="right">
+    <p align="center">
+      <a href="https://github.com/ej8899" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+      </a> 
+      <a href="https://twitter.com/ejdevs" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+      </a> 
+      <a href="https://www.linkedin.com/in/erniejohnson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </p>  
+  </div>
+</div>
+
+
+<br />
+
+<div align="center">
        
- 👋 Hi, I’m Ernie ###
+ <h3>👋 Hi, I’m Ernie</h3>
+ <p>A fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems.</p>
+
+
+ 
 ### 👀 I’m interested in ...  ###
   - full stack web development
   - mobile application development
@@ -53,8 +78,6 @@
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- --->
 
-### My Workspace:  ###
-![](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Social (coming soon): ### 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
