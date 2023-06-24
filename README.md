@@ -1,16 +1,16 @@
 <div align="center">
   <img align="left" src="https://github.com/zeucapua/zeucapua/blob/e41d1afbe120a47951c2b8e309c830330f8d802e/zeudev_circles.png" height="120" />
-  <h3>Hello, I'm Ernie</h3>
+  <h3>👋 Hello, I'm Ernie</h3>
   <p>
     A fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems.
   </p>
   <div align="right">
     <p align="center">
-      <a href="https://github.com/ej8899" target="_new"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+      <a href="https://github.com/ej8899" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
       </a> 
-      <a href="https://twitter.com/ejdevscom" target="_new"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+      <a href="https://twitter.com/ejdevscom" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
       </a> 
-      <a href="https://www.linkedin.com/in/ernie-johnson" target="_new"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      <a href="https://www.linkedin.com/in/ernie-johnson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </p>  
   </div>
