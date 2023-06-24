@@ -40,10 +40,22 @@ mobile application development
       SASS
 <br />
 
+<table>
+    <tr><th colspan=2 align=left><h3>💻 Developer Education...</h3></th></tr>
+    <tr><td>2023</td><td>
+      <li>Application Cybersecurity
+      <li>Svelte
+      <li>Typescript
+      <li>Swift
+      <li>Python
+    </td></tr>
+    <tr><td>2022</td><td>Lighthouse Labs - full stack web development program to include JS, Ruby, ExpressJS</td></tr>
+</table>
+
 
 <table>
     <tr><th colspan=2 align=left><h3>💻 Developer Experience...</h3></th></tr>
-    <tr><td>2023 +</td><td>HTML / CSS / Javascript / Python & beyond</td></tr>
+    <tr><td>2023 +</td><td>HTML / CSS / Javascript / PostgreSQL / Python & beyond</td></tr>
     <tr><td>2010's</td><td>HTML / Wordpress</td></tr>
     <tr><td>2000's</td><td>HTML / Perl / PHP / mySQL --> early days of e-commerce!</td></tr>
     <tr><td>2000's</td><td>C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.</td></tr>
