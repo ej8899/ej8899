@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h3>👋 Hello, I'm Ernie</h3>
+  <h2>👋 Hello, I'm Ernie</h2>
   <p>
     A fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems.
   </p>
@@ -41,11 +41,12 @@ mobile application development
 <br />
 
 <h3>💻 Developer Experience</h3>
-2010's HTML / Wordpress
-2000's HTML / Perl / PHP / mySQL --> early days of e-commerce!
-2000's C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.
-1990's C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)
-1980's BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy) 
+2023+ HTML / CSS / Javascript / Python & beyond
+2010's HTML / Wordpress<br />
+2000's HTML / Perl / PHP / mySQL --> early days of e-commerce!<br />
+2000's C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.<br />
+1990's C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)<br />
+1980's BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy) <br />
 
 <br />
 
