@@ -53,6 +53,8 @@
 
 ---
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+          
 <div>
     <h3>My Workspace:</h3>
        <img alt="PopOS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> 
