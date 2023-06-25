@@ -165,7 +165,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 </div>
 
 <details>	
-  <summary><h3>⚡&nbsp;&nbsp;Github Stats</h3></summary>
+  <summary><h3>&nbsp;⚡&nbsp;&nbsp;Github Stats</h3></summary>
  <hr>
   <br />
   <p align=center>
@@ -175,7 +175,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 </details>
 <hr>
 <details>	
-  <summary><h3>☄️&nbsp;&nbsp;Github Streaks</h3></summary>
+  <summary><h3>&nbsp;☄️&nbsp;&nbsp;Github Streaks</h3></summary>
 <hr>
   <br /><p align=center>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
