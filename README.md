@@ -1,3 +1,73 @@
+# Welcome to My GitHub Profile! 👋
+
+## About Me
+
+Hello there! I'm [Your Name], a passionate software developer with expertise in multiple platforms and programming languages. I have experience working with 💻 Windows, 🐧 Linux, and 🍏 macOS, and I'm proficient in 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🗄️ MySQL, and 🗄️ PostgreSQL.
+
+## Developer Experience
+
+- **2023 +**: HTML / CSS / JavaScript / PostgreSQL / Python & beyond
+- **2010's**: HTML / Wordpress
+- **2000's**: HTML / Perl / PHP / mySQL --> early days of e-commerce!
+- **2000's**: C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.
+- **1990's**: C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)
+- **1980's**: BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy)
+
+## Projects
+
+Here are some of the projects I have worked on:
+
+1. **Project 1**: [Project Name](link-to-project) - Brief description of the project.
+2. **Project 2**: [Project Name](link-to-project) - Brief description of the project.
+3. **Project 3**: [Project Name](link-to-project) - Brief description of the project.
+
+Feel free to explore these projects to get a sense of my coding style and the type of work I enjoy.
+
+## Skills
+
+- **Programming Languages**: 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl.
+- **Databases**: 🗄️ MySQL, 🗄️ PostgreSQL.
+- **Text Editors**: ✒️ Sublime Text, ✒️ Visual Studio Code (VSCode).
+
+## What I'd Like to Work and Collaborate On
+
+I'm looking to collaborate on the following types of projects:
+
+- Construction industry related development projects
+- Mapping related development projects
+- Technology & health related development projects
+- RPG style game development
+
+If you're working on any of these types of projects or have other exciting opportunities, feel free to reach out! I'm open to discussing new ideas and contributing to innovative projects.
+
+## Contact Me
+
+You can reach me through the following channels:
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
+
+I'm always open to new opportunities and collaborations, so feel free to get in touch if you have any questions or would like to discuss a project!
+
+## Contributions
+
+I'm a strong believer in the open-source community and actively contribute to various projects. You can find my contributions on GitHub, and I welcome pull requests and collaboration on exciting projects.
+
+## Blog
+
+I occasionally share my thoughts, ideas, and coding tips on my personal blog. Check it out [here](link-to-your-blog) for some interesting articles!
+
+## Certifications
+
+- [Certification 1](link-to-certification) - Description of the certification.
+- [Certification 2](link-to-certification) - Description of the certification.
+
+## Fun Fact
+
+Did you know? I enjoy exploring new technologies and finding creative ways to solve problems. Outside of coding, I also love hiking ⛰ and photography!
+
+
+
 <div align="center">
   
   <h2>👋 Hello, I'm Ernie</h2>
