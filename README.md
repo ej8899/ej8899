@@ -165,8 +165,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 </div>
 
 <details>	
-  <summary><h3>&nbsp;⚡&nbsp;&nbsp;Github Stats</h3></summary>
- <hr>
+  <summary><h3>&nbsp;⚡&nbsp;&nbsp;Github Stats...</h3></summary>
   <br />
   <p align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
@@ -175,8 +174,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 </details>
 <hr>
 <details>	
-  <summary><h3>&nbsp;☄️&nbsp;&nbsp;Github Streaks</h3></summary>
-<hr>
+  <summary><h3>&nbsp;☄️&nbsp;&nbsp;Github Streaks...</h3></summary>
   <br /><p align=center>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
   </p>
@@ -184,7 +182,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 <hr>
 <details>	
   <br />
-  <summary><h3>&nbsp;⚙️&nbsp;&nbsp;Things I use to get stuff done</h3></summary>
+  <summary><h3>&nbsp;⚙️&nbsp;&nbsp;Things I use to get stuff done...</h3></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu, Windows 11, MacOS</li>
 	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Lenovo Yoga 7i</li>
