@@ -181,6 +181,20 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
   </p>
 </details>
+<hr>
+<details>	
+  <br />
+  <summary><h3>&nbsp;⚙️&nbsp;&nbsp;Things I use to get stuff done</h3></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu, Windows 11, MacOS</li>
+	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Lenovo Yoga 7i, Custom Build Desktop</li>
+  	    <li><b>Browser: </b> Chrome, Firefox, Opera, Safari</li>
+	      <li><b>Terminal: </b> Tabby with ZSH: Oh My Zsh</li>
+	      <li><b>Code Editors:</b> VSCode, Sublime.</li>
+	      <li><b>To Stay Updated:</b> Stackoverflow, Dev.to, Medium, Linkedin and Twitter.</li>
+	</ul>	
+</details>
+<hr>
 </div>
 
 <!---
