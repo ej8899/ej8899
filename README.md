@@ -187,7 +187,8 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
   <summary><h3>&nbsp;⚙️&nbsp;&nbsp;Things I use to get stuff done</h3></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu, Windows 11, MacOS</li>
-	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Lenovo Yoga 7i, Custom Build Desktop</li>
+	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Lenovo Yoga 7i</li>
+		<li><b>Servers: </b> Synology NAS, Custom Servers (x2) 200Tb, one with near-bare-metal Linux VM desktop</li>
   	    <li><b>Browser: </b> Chrome, Firefox, Opera, Safari</li>
 	      <li><b>Terminal: </b> Tabby with ZSH: Oh My Zsh</li>
 	      <li><b>Code Editors:</b> VSCode, Sublime.</li>
