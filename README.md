@@ -188,7 +188,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
   	<ul>
   	    <li><b>OS:</b> Ubuntu, Windows 11, MacOS</li>
 	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Lenovo Yoga 7i</li>
-		<li><b>Servers: </b> Synology NAS, Custom Servers (x2) 200Tb, one with near-bare-metal Linux VM desktop</li>
+		<li><b>Servers: </b> Synology NAS (~112TB), Custom Servers (x2) ~200TBea, one with near-bare-metal Linux VM desktop</li>
   	    <li><b>Browser: </b> Chrome, Firefox, Opera, Safari</li>
 	      <li><b>Terminal: </b> Tabby with ZSH: Oh My Zsh</li>
 	      <li><b>Code Editors:</b> VSCode, Sublime.</li>
