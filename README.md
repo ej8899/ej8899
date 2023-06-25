@@ -165,16 +165,16 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 </div>
 
 <details>	
-  <summary><h2>⚡ Github Stats</h2></summary>
-
+  <summary><h3>⚡ Github Stats</h3></summary>
+ <hr>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </details>
 
 <details>	
-  <summary><h2>☄️ Github Streaks</h2></summary>
-
+  <summary><h3>☄️ Github Streaks</h3></summary>
+<hr>
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
 </details>
