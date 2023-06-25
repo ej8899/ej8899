@@ -155,7 +155,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 
 
 ---
-</div>
+
 <!---
 ![](https://github-readme-stats.vercel.app/api?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
@@ -176,6 +176,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
 </details>
+</div>
 
 <!---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false)<br/>
