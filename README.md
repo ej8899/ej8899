@@ -189,9 +189,15 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 <hr>
 <details>	
   <summary><h3>&nbsp;☄️&nbsp;&nbsp;Fun Facts...</h3></summary>
-  <br /><p align=center>
+  <br /><p align=left>
   Did you know?</br>
-	Although I enjoy exploring new technologies and finding creative ways to solve problems through application development, I also love hiking ⛰, photography📸, scuba diving🤿, fitness💪 and being a "dog🐺 dad"!
+	Although I enjoy exploring new technologies and finding creative ways to solve problems through application development, I also love 
+	<ul><li>hiking ⛰,</li> 
+	<li>photography📸,</li> 
+	<li>scuba diving🤿,</li>
+	<li>fitness💪,</li>
+	<li>and being a "dog🐺 dad"!</li>
+	</ul>
   </p>
 </details>
 <hr>
