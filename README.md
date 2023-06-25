@@ -173,7 +173,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
   </p>
 </details>
-<hr>
+<hr style="height:1px">
 <details>	
   <summary><h3>&nbsp;☄️&nbsp;&nbsp;Github Streaks...</h3></summary>
   <br /><p align=center>
