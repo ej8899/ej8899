@@ -6,6 +6,7 @@
 
 Hello there! I'm [Your Name], a passionate software developer with expertise in multiple platforms and programming languages. I have experience working with 💻 Windows, 🐧 Linux, and 🍏 macOS, and I'm proficient in 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🗄️ MySQL, and 🗄️ PostgreSQL.
 
+<a href="mailto:ej8899@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="send email to ej8899@gmail.com" /></a>&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />&nbsp;<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 ## Developer Experience
 
 - **2023 +**: HTML / CSS / JavaScript / PostgreSQL / Python & beyond
@@ -147,12 +148,12 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 
 <!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- --->
 
-
+<!--
 ### Social (coming soon): ### 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 ---
-
+-->
 
 
 ---
