@@ -70,7 +70,8 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 
 
 
-<div align="center">
+<div> 
+  <div align="center">
   
   <h2>👋 Hello, I'm Ernie</h2>
   <p>
@@ -161,9 +162,10 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 --->
+</div>
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><h2>⚡ Github Stats</h2></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
@@ -171,7 +173,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><h2>☄️ Github Streaks</h2></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
