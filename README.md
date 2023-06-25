@@ -188,7 +188,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 </details>
 <hr>
 <details>	
-  <summary><h3>&nbsp;☄️&nbsp;&nbsp;Fun Facts...</h3></summary>
+  <summary><h3>&nbsp;🐺&nbsp;&nbsp;Fun Facts...</h3></summary>
   <br /><p align=left>
   Did you know?</br>
 	Although I enjoy exploring new technologies and finding creative ways to solve problems through application development, I also love 
