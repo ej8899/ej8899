@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello there! I'm [Your Name], a passionate software developer with expertise in multiple platforms and programming languages. I have experience working with 💻 Windows, 🐧 Linux, and 🍏 macOS, and I'm proficient in 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🗄️ MySQL, and 🗄️ PostgreSQL.
+Hello!  I'm Ernie, a fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems. I have experience working with 💻 Windows, 🐧 Linux, and 🍏 macOS, and I'm proficient in 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🗄️ MySQL, and 🗄️ PostgreSQL.
 
 <a href="mailto:ej8899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="send email to ej8899@gmail.com" /></a>&nbsp;<a href="https://www.linkedin.com/in/ernie-johnson/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://twitter.com/ejdevscom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="check out my twitter posts"/></a>
 ## Developer Experience
@@ -74,10 +74,6 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 <div> 
   <div align="center">
   
-  <h2>👋 Hello, I'm Ernie</h2>
-  <p>
-    A fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems.
-  </p>
   <div align="right">
     <p align="center">
       <a href="https://github.com/ej8899" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
