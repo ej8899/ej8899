@@ -151,22 +151,8 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 ---
-### GitHub Stats:
-<p align="center" width="100%">
-       
-<a href="https://github.com/ej8899">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</a>&nbsp;
-<a href="https://github.com/ej8899">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</a>
-</p>
 
----
 
-<p align="center" width="100%">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
 
 ---
 </div>
@@ -176,7 +162,20 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 --->
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
+</details>
 
 <!---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false)<br/>
