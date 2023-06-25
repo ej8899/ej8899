@@ -65,10 +65,6 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 - [Certification 1](link-to-certification) - Description of the certification.
 - [Certification 2](link-to-certification) - Description of the certification.
 
-## Fun Fact
-
-Did you know? I enjoy exploring new technologies and finding creative ways to solve problems. Outside of coding, I also love hiking ⛰ and photography!
-
 
 
 <div> 
@@ -169,7 +165,7 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
   </p>
 </details>
-<hr style="height:1px">
+<hr>
 <details>	
   <summary><h3>&nbsp;☄️&nbsp;&nbsp;Github Streaks...</h3></summary>
   <br /><p align=center>
@@ -191,6 +187,16 @@ Did you know? I enjoy exploring new technologies and finding creative ways to so
 	</ul>	
 </details>
 <hr>
+<details>	
+  <summary><h3>&nbsp;☄️&nbsp;&nbsp;Fun Facts...</h3></summary>
+  <br /><p align=center>
+  Did you know?</br>
+	Although I enjoy exploring new technologies and finding creative ways to solve problems through application development, I also love hiking ⛰, photography📸, scuba diving🤿, fitness💪 and being a "dog🐺 dad"!
+  </p>
+</details>
+<hr>
+
+
 </div>
 
 <!---
