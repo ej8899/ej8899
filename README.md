@@ -202,7 +202,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 </details>
 <hr>
 
-
+![Visitor Count](https://profile-counter.glitch.me/ej8899/count.svg)
 </div>
 
 <!---
