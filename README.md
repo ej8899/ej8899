@@ -172,7 +172,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
   </p>
 </details>
-<hr>
+
 <details>	
   <br />
   <summary><h3>&nbsp;⚙️&nbsp;&nbsp;Things I use to get stuff done...</h3></summary>
@@ -186,7 +186,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 	      <li><b>To Stay Updated:</b> Stackoverflow, Dev.to, Medium, Linkedin and Twitter.</li>
 	</ul>	
 </details>
-<hr>
+
 <details>	
   <summary><h3>&nbsp;🐺&nbsp;&nbsp;Fun Facts...</h3></summary>
   <br /><p align=left>
