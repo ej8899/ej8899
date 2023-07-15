@@ -56,11 +56,12 @@ I'm a strong believer in the open-source community and actively contribute to va
 ## Blog
 
 I occasionally share my thoughts, ideas, and coding tips on my personal blog. Check it out [here](link-to-your-blog) for some interesting articles!
-
+--->
 ## Certifications
 
-- [Certification 1](link-to-certification) - Description of the certification.
-- [Certification 2](link-to-certification) - Description of the certification.
+- [Certification 1](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8) - Google Cybersecurity Specialization.
+- [Certification 2](link-to-certification) - Lighthouse Labs Full Stack Web Developer.
+- [Certification 2](link-to-certification) - Lighthouse Labs Full Stack Web Developer.
 -->
 
 <!---
