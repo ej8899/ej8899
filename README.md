@@ -32,8 +32,8 @@ Feel free to explore these projects to get a sense of my coding style and the ty
 
 - **Programming Languages**: 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl.
 - **Databases**: 🗄️ MySQL, 🗄️ PostgreSQL.
-- **Text Editors**: ✒️ Sublime Text, ✒️ Visual Studio Code (VSCode).
-- **Operating Systmes**: Windows, MacOS, Linux, iOS, Android.
+- **Code Editors**: ✒️ Sublime Text, ✒️ Visual Studio Code (VSCode).
+- **Operating Systems**: Windows, MacOS, Linux, iOS, Android.
 
 ## What I'd Like to Work and Collaborate On
 
@@ -118,14 +118,12 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
   </p>
 </details>
-
 <details>	
   <summary><h3>&nbsp;☄️&nbsp;&nbsp;Github Streaks...</h3></summary>
   <p align=center>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
   </p>
 </details>
-
 <details>	
   <summary><h3>&nbsp;⚙️&nbsp;&nbsp;Things I use to get stuff done...</h3></summary>
   	<ul>
@@ -138,7 +136,6 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 	      <li><b>To Stay Updated:</b> Stackoverflow, Dev.to, Medium, Linkedin and Twitter.</li>
 	</ul>	
 </details>
-
 <details>	
   <summary><h3>&nbsp;🐺&nbsp;&nbsp;Fun Facts...</h3></summary>
   <p align=left>
@@ -153,10 +150,10 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
   </p>
 </details>
 <hr>
-
-<!--- ![Visitor Count](https://profile-counter.glitch.me/ej8899/count.svg) --->
-<center><img src="https://komarev.com/ghpvc/?username=my-github-username&style=flat-square&color=blue" alt=""/></center>
 </div>
+<!--- ![Visitor Count](https://profile-counter.glitch.me/ej8899/count.svg) --->
+<div align="right"><img src="https://komarev.com/ghpvc/?username=my-github-username&style=flat-square&color=blue" alt=""/></div>
+
 
 <!---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false)<br/>
