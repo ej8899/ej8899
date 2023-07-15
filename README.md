@@ -60,10 +60,11 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 ## Certifications
 
 - [Certification 1](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8) - Google Cybersecurity Specialization.
-- [Certification 2](link-to-certification) - Lighthouse Labs Full Stack Web Developer.
-- [Certification 2](link-to-certification) - Lighthouse Labs Full Stack Web Developer.
--->
-
+- [Certification 2]() - Lighthouse Labs Full Stack Web Developer.
+- In Progress:
+- [Certification 3]() - Meta Front-End Developer Professional.
+- [Certification 4]() - Google UX Design Professional.
+- [Certification 2]() - Meta iOS Developer Professional.
 <!---
 <br />
 
