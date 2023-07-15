@@ -122,12 +122,14 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
   </p>
+	<hr>
 </details>
 <details>	
   <summary>&nbsp;☄️&nbsp;&nbsp;Github Streaks...</summary>
   <p align=center>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false" />
   </p>
+	<hr>
 </details>
 <details>	
   <summary>&nbsp;⚙️&nbsp;&nbsp;Things I use to get stuff done...</summary>
@@ -140,7 +142,8 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 	      <li><b>Terminal: </b> Tabby with ZSH: Oh My Zsh</li>
 	      <li><b>Code Editors:</b> VSCode, Sublime.</li>
 	      <li><b>To Stay Updated:</b> Stackoverflow, Dev.to, Medium, Linkedin and Twitter.</li>
-	</ul>	
+	</ul>
+	<hr>
 </details>
 <details>	
   <summary>&nbsp;🐺&nbsp;&nbsp;Fun Facts...</summary>
@@ -152,6 +155,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 	<li>fitness💪,</li>
 	<li>and being a "dog🐺 dad"!</li>
 	</ul>
+<hr>
 </details>
 <hr>
 </div>
