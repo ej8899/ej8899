@@ -117,6 +117,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 
 <details>	
   <summary>&nbsp;⚡&nbsp;&nbsp;Github Stats...</summary>
+  <br/>
   <p align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
@@ -130,6 +131,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 </details>
 <details>	
   <summary>&nbsp;⚙️&nbsp;&nbsp;Things I use to get stuff done...</summary>
+	<br/>
   	<ul>
   	    <li><b>OS:</b> Ubuntu, Windows 11, MacOS</li>
 	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Lenovo Yoga 7i</li>
@@ -142,7 +144,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 </details>
 <details>	
   <summary>&nbsp;🐺&nbsp;&nbsp;Fun Facts...</summary>
-  Did you know?</br>
+  <br/>
 	Although I enjoy exploring new technologies and finding creative ways to solve problems through application development, I also love 
 	<ul><li>hiking ⛰,</li> 
 	<li>photography📸,</li> 
