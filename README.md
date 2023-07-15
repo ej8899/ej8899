@@ -16,17 +16,26 @@ Hello!  I'm Ernie, a fullstack web developer and software engineer with a focus 
 - **1990's**: C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)
 - **1980's**: BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy)
 
-<!--
+
 ## Projects
 
-Here are some of the projects I have worked on:
-
-1. **Project 1**: [Project Name](link-to-project) - Brief description of the project.
-2. **Project 2**: [Project Name](link-to-project) - Brief description of the project.
-3. **Project 3**: [Project Name](link-to-project) - Brief description of the project.
-
+Here are some of my favorite projects I have worked on:
+<table border=0>
+<tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>LearnThis!</b>
+	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br>
+<i>learned: React, Chrome Extensions, group project programming with tight deadlines</i>
+	<br>
+<a href="https://github.com/ej8899/lhlfinals"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</Td></tr>
+<tr><td><img src="https://github.com/ej8899/lhl-midterm/raw/master/screenshots/screenshot-main.png" width=300/></td><Td><B>MapMy-Wiki</B>
+<br>MapMyWiki is geo-wiki type application created for LightHouseLabs.ca mid-term project to exercise our skills to date in the course including front and back end scripting in Javascript, Postgress SQL, HTML and CSS (via SASS).<br>
+<i>learned: advanced JQuery, database design, Google Maps API (& API data caching to save costs & time)</i>
+<br>
+<a href="https://github.com/ej8899/lhl-midterm"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</Td></tr>
+</table>
 Feel free to explore these projects to get a sense of my coding style and the type of work I enjoy.
--->
+
 
 ## Skills
 
@@ -164,6 +173,11 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 
 
 <!---
+badges for reference:
+https://nitratine.net/blog/post/github-badges/
+https://shields.io/
+
+------
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ej8899&theme=synthwave&hide_border=false)<br/>
 
 ej8899/ej8899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
