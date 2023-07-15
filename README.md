@@ -201,6 +201,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 <hr>
 
 ![Visitor Count](https://profile-counter.glitch.me/ej8899/count.svg)
+<img src="https://komarev.com/ghpvc/?username=my-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!---
