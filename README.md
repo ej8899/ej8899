@@ -1,6 +1,6 @@
+<img src="Untitled design.png" alt="send email to ej8899@gmail.com" />
 
-
-# Welcome to My GitHub Profile! 👋
+# 👋 Welcome to My GitHub Profile!
 
 ## About Me
 
