@@ -113,8 +113,10 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 
 <details>	
   <summary>&nbsp;⚡&nbsp;&nbsp;Github Stats...</summary>
+  <p align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ej8899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej8899&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+  </p>
 </details>
 <details>	
   <summary>&nbsp;☄️&nbsp;&nbsp;Github Streaks...</summary>
