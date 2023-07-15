@@ -39,10 +39,10 @@ Feel free to explore these projects to get a sense of my coding style and the ty
 
 I'm looking to collaborate on the following types of projects:
 
-- Construction industry related development projects
-- Mapping related development projects
-- Health & Fitness related development projects
-- RPG style game development
+- 🚧 Construction industry related development projects
+- 🗺️ Mapping related development projects
+- 💪 Health & Fitness related development projects
+- 🕹️ RPG style game development
 
 If you're working on any of these types of projects or have other exciting opportunities, feel free to reach out! I'm open to discussing new ideas and contributing to innovative projects.
 
