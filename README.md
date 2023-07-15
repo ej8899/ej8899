@@ -63,33 +63,15 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 - [Certification 2](link-to-certification) - Description of the certification.
 -->
 
-<!--
+<!---
 <br />
 
 <div align="center">
 
 
-<table width=70%>
-      <tr><td colspan=2 align=left valign=middle><h3>🌱  Developer Education...</h3></td></tr>
-    <tr><td valign=top>2023</td><td>
-      <li>Application Cybersecurity
-      <li>Svelte
-      <li>Typescript
-      <li>Swift
-      <li>Python
-    </td></tr>
-    <tr><td>2022</td><td>Lighthouse Labs - full stack web development program to include JS, Ruby, ExpressJS</td></tr>
-    <tr><td colspan=2 align=left valign=middle><h3>💻 Developer Experience...</h3></td></tr>
-    <tr><td>2023 +</td><td>HTML / CSS / Javascript / PostgreSQL / Python & beyond</td></tr>
-    <tr><td>2010's</td><td>HTML / Wordpress</td></tr>
-    <tr><td>2000's</td><td>HTML / Perl / PHP / mySQL --> early days of e-commerce!</td></tr>
-    <tr><td>2000's</td><td>C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.</td></tr>
-    <tr><td>1990's</td><td>C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)</td></tr>
-    <tr><td>1980's</td><td>BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy) </td></tr>
-</table>
 
+--->
 
----
 
             
  <!---        
