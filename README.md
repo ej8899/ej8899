@@ -27,7 +27,7 @@ Here are some of my favorite projects I have worked on:
 	<br>
 <a href="https://github.com/ej8899/lhlfinals"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </Td></tr>
-<tr><td><img src="https://github.com/ej8899/lhl-midterm/raw/master/screenshots/screenshot-main.png" width=300/></td><Td><B>MapMy-Wiki</B>
+<tr><td><img src="https://github.com/ej8899/lhl-midterm/raw/master/screenshots/screenshot-select.png" width=300/></td><Td><B>MapMy-Wiki</B>
 <br>MapMyWiki is geo-wiki type application created for LightHouseLabs.ca mid-term project to exercise our skills to date in the course including front and back end scripting in Javascript, Postgress SQL, HTML and CSS (via SASS).<br>
 <i>learned: advanced JQuery, database design, Google Maps API (& API data caching to save costs & time)</i>
 <br>
