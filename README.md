@@ -30,8 +30,10 @@ Feel free to explore these projects to get a sense of my coding style and the ty
 
 ## Skills
 
-- **Programming Languages**: 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl.
+- **Programming Languages**: 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🐍 Python.
+- **Frameworks/Libraries**: React, NodeJS, Express, Rails, JQuery, Boostrap, MaterialUI.
 - **Databases**: 🗄️ MySQL, 🗄️ PostgreSQL.
+- **Testing**: Jest, Mocha, Chai, Storybook, Cypress.
 - **Code Editors**: ✒️ Sublime Text, ✒️ Visual Studio Code (VSCode).
 - **Operating Systems**: Windows, MacOS, Linux, iOS, Android.
 
