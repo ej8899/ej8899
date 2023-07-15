@@ -2,12 +2,12 @@
 
 # 👋 Welcome to My GitHub Profile!
 
-## About Me
+## About Me...
 
 Hello!  I'm Ernie, a fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems.  I'm always open to new opportunities and collaborations, so feel free to get in touch if you have any questions or would like to discuss a project!
 
 <a href="mailto:ej8899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="send email to ej8899@gmail.com" /></a>&nbsp;<a href="https://www.linkedin.com/in/ernie-johnson/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://twitter.com/ejdevscom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="check out my twitter posts"/></a>&nbsp;<a href="https://www.youtube.com/@erniejohnsonca?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-## Developer Experience
+## Developer Experience...
 
 - **2023 +**: HTML / CSS / JavaScript / PostgreSQL / Python & beyond
 - **2010's**: HTML / Wordpress
@@ -17,7 +17,7 @@ Hello!  I'm Ernie, a fullstack web developer and software engineer with a focus 
 - **1980's**: BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy)
 
 
-## Projects
+## Projects...
 
 Here are some of my favorite projects I have worked on:
 <table border=0>
@@ -37,7 +37,7 @@ Here are some of my favorite projects I have worked on:
 Feel free to explore these projects to get a sense of my coding style and the type of work I enjoy.
 
 
-## Skills
+## Skills...
 
 - **Programming Languages**: 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🐍 Python.
 - **Frameworks/Libraries**: React, NodeJS, Express, Rails, JQuery, Boostrap, MaterialUI.
@@ -46,7 +46,7 @@ Feel free to explore these projects to get a sense of my coding style and the ty
 - **Code Editors**: ✒️ Sublime Text, ✒️ Visual Studio Code (VSCode).
 - **Operating Systems**: Windows, MacOS, Linux, iOS, Android.
 
-## What I'd Like to Work and Collaborate On
+## What I'd Like to Work and Collaborate On...
 
 I'm looking to collaborate on the following types of projects:
 
@@ -68,7 +68,7 @@ I'm a strong believer in the open-source community and actively contribute to va
 
 I occasionally share my thoughts, ideas, and coding tips on my personal blog. Check it out [here](link-to-your-blog) for some interesting articles!
 --->
-## Certifications
+## Certifications...
 - Completed:
     - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8).
     - Lighthouse Labs Full Stack Web Developer.
