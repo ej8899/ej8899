@@ -18,8 +18,7 @@ Hello!  I'm Ernie, a fullstack web developer and software engineer with a focus 
 
 
 ## Projects...
-
-Here are some of my favorite projects I have worked on:
+> Here are some of my favorite projects I have worked on:
 <table border=0>
 <tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>LearnThis!</b>
 	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br>
@@ -48,14 +47,14 @@ Feel free to explore these projects to get a sense of my coding style and the ty
 
 ## What I'd Like to Work and Collaborate On...
 
-I'm looking to collaborate on the following types of projects:
+> I'm looking to collaborate on the following types of projects:
 
 - 🚧 Construction industry related development projects
 - 🗺️ Mapping related development projects
 - 💪 Health & Fitness related development projects
 - 🕹️ RPG style game development
 
-If you're working on any of these types of projects or have other exciting opportunities, feel free to reach out! I'm open to discussing new ideas and contributing to innovative projects.
+> If you're working on any of these types of projects or have other exciting opportunities, feel free to reach out! I'm open to discussing new ideas and contributing to innovative projects.
 
 
 
@@ -69,13 +68,13 @@ I'm a strong believer in the open-source community and actively contribute to va
 I occasionally share my thoughts, ideas, and coding tips on my personal blog. Check it out [here](link-to-your-blog) for some interesting articles!
 --->
 ## Certifications...
-- Completed:
-    - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8).
-    - Lighthouse Labs Full Stack Web Developer.
-- In Progress:
-    - Meta Front-End Developer Professional.
-    - Google UX Design Professional.
-    - Meta iOS Developer Professional.
+> Completed:
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8).
+- Lighthouse Labs Full Stack Web Developer.
+> In Progress:
+- Meta Front-End Developer Professional.
+- Google UX Design Professional.
+- Meta iOS Developer Professional.
 <!---
 <br />
 
@@ -171,6 +170,11 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 <!--- ![Visitor Count](https://profile-counter.glitch.me/ej8899/count.svg) --->
 <div align="right"><img src="https://komarev.com/ghpvc/?username=my-github-username-ej8899&style=flat-square&color=blue" alt=""/></div>
 
+<!--- 
+other profile layouts of interest:
+https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md
+https://github.com/DenverCoder1/readme-typing-svg
+--->
 
 <!---
 badges for reference:
