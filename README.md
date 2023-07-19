@@ -144,7 +144,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 	<br/>
   	<ul>
   	    <li><b>OS:</b> Ubuntu, Windows 11, MacOS</li>
-	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Lenovo Yoga 7i</li>
+	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Lenovo Yoga 7i -- <a href="https://amzn.to/44xavQu">shop Canada</a> | <a href="https://amzn.to/3rC6UlL">shop USA</a></li>
 		<li><b>Servers: </b> Synology NAS (~112TB), Custom Servers (x2) ~200TBea, one with near-bare-metal Linux VM desktop</li>
   	    <li><b>Browser: </b> Chrome, Firefox, Opera, Safari</li>
 	      <li><b>Terminal: </b> Tabby with ZSH: Oh My Zsh</li>
