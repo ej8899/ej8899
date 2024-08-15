@@ -16,7 +16,7 @@ Hello!  I'm Ernie, a fullstack web & app developer and cybersecurity specialist 
 - **2010's**: HTML / Wordpress
 - **2000's**: HTML / Perl / PHP / mySQL --> early days of e-commerce!
 - **2000's**: C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.
-- **1990's**: C / C++ --> Shareware & Commercial Application Developer (DOS/Windows), own & operate 3-line BBS (EPIC BBS).
+- **1990's**: C / C++ --> Shareware & Commercial Application Developer (DOS/Windows), own & operate 3-line BBS (EPIC BBS), networking with LANtastic and Novell 10Base2 and multitasking DOS apps with DESQview!
 - **1980's**: BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy)
 
 
