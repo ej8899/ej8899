@@ -24,7 +24,7 @@ Here are some recent projects I have worked on:
 <tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/szechuan_sauce.png" width=300/></td><Td><b>DFIRMadness - The Case of the Stolen Szechuan Sauce</b>
 	<br>A cybersecurity forensics analysis and subsequent report on this cyber attack, breach which included a malware deployment resulting in data manipulation and exfiltration from a ficticious businesses.  Analysis PCAP (Wireshark captures), memory and drive dumps and more.<br>
 	<br>
-<a href="https://github.com/ej8899/cyber101"><img src="https://img.shields.io/badge/review%20this%20project%20here-8A2BE2?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/ej8899/cyber101"><img src="https://img.shields.io/badge/my%20cybersecurity%20profile-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>
 <tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>LearnThis!</b>
 	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br>
