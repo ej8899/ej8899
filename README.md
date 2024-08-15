@@ -81,7 +81,8 @@ Completed:
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8).
 - Lighthouse Labs: Data Analysist
 - Lighthouse Labs: Full Stack Web Developer.
-> In Progress:
+  
+In Progress:  
 - Microsoft Cybersecurity Professional Certification
 - Meta Front-End Developer Professional.
 - Google UX Design Professional.
