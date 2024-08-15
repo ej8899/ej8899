@@ -85,9 +85,9 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 ## Certifications...  
 Completed:  
 - [Lighthouse Labs: Cybersecurity Specialist](https://www.lighthouselabs.ca/en/cyber-security)
-- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8).
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8)
 - [Lighthouse Labs: Data Analysist](https://www.lighthouselabs.ca/en/intro-to-data-analytics-course)
-- [Lighthouse Labs: Full Stack Web Developer](https://www.lighthouselabs.ca/en/web-development).
+- [Lighthouse Labs: Full Stack Web Developer](https://www.lighthouselabs.ca/en/web-development)
   
 In Progress:  
 - Microsoft Cybersecurity Professional Certification
