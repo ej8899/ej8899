@@ -18,13 +18,13 @@ Hello!  I'm Ernie, a fullstack web developer and cybersecurity specialist with a
 - **1980's**: BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy)
 
 
-## Projects...
-> Here are some recent projects I have worked on:
+## Projects...  
+Here are some recent projects I have worked on:
 <table border=0>
 <tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/szechuan_sauce.png" width=300/></td><Td><b>DFIRMadness - The Case of the Stolen Szechuan Sauce</b>
 	<br>A cybersecurity forensics analysis and subsequent report on this cyber attack, breach which included a malware deployment resulting in data manipulation and exfiltration from a ficticious businesses.  Analysis PCAP (Wireshark captures), memory and drive dumps and more.<br>
 	<br>
-<a href="https://github.com/ej8899/cyber101"><img src="https://img.shields.io/badge/This%20and%20more...-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/ej8899/cyber101"><img src="https://img.shields.io/badge/review%20this%20project%20here-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>
 <tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>LearnThis!</b>
 	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br>
@@ -42,9 +42,9 @@ Hello!  I'm Ernie, a fullstack web developer and cybersecurity specialist with a
 Feel free to explore these projects to get a sense of my coding style and the type of work I enjoy.
 
 
-## IT Skills...
+## IT Skills...  
 
-- **Cybersecurity Frameworks**: ISO 27001, NIST, MITRE Att&CK, 
+- **Cybersecurity Frameworks**: ISO 27001, NIST, MITRE ATT&CK, 
 - **Programming Languages**: 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🐍 Python.
 - **Frameworks/Libraries**: React, NodeJS, Express, Rails, JQuery, Boostrap, MaterialUI.
 - **Databases**: 🗄️ MySQL, 🗄️ PostgreSQL.
@@ -52,17 +52,17 @@ Feel free to explore these projects to get a sense of my coding style and the ty
 - **Code Editors**: ✒️ Sublime Text, ✒️ Visual Studio Code (VSCode).
 - **Operating Systems**: Windows, MacOS, Linux, iOS, Android.
 
-## What I'd Like to Work and Collaborate On...
+## What I'd Like to Work and Collaborate On...  
 
-> I'm looking to collaborate on the following types of projects:
+I'm looking to collaborate on the following types of projects:  
 
 - 🚧 Construction industry related projects
 - 🚔 Law Enforcement related projects
 - 🗺️ Mapping related projects
 - 💪 Health & Fitness related projects
-- 🕹️ RPG style game development
+- 🕹️ RPG style game development  
 
-> If you're working on any of these types of projects or have other exciting opportunities, feel free to reach out! I'm open to discussing new ideas and contributing to innovative projects.
+If you're working on any of these types of projects or have other exciting opportunities, feel free to reach out! I'm open to discussing new ideas and contributing to innovative projects.
 
 
 
@@ -75,8 +75,8 @@ I'm a strong believer in the open-source community and actively contribute to va
 
 I occasionally share my thoughts, ideas, and coding tips on my personal blog. Check it out [here](link-to-your-blog) for some interesting articles!
 --->
-## Certifications...
-> Completed:
+## Certifications...  
+Completed:  
 - Lighthouse Labs: Cybersecurity Specialist
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8).
 - Lighthouse Labs: Data Analysist
