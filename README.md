@@ -26,7 +26,7 @@ Here are some recent projects I have worked on:
 	<br>
 <a href="https://github.com/ej8899/cyber101"><img src="https://img.shields.io/badge/my%20cybersecurity%20profile-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>
-<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/szechuan_sauce.png" width=300/></td><Td><b>ErnieJohnson.ca - Personal Portfolio</b>
+<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/project-ejca.png" width=300/></td><Td><b>ErnieJohnson.ca - Personal Portfolio</b>
 	<br>Develop and maintain a custom portfolio web site to showcase not only completed projects, but web development skills of the portfolio site itself. It utilizes HTML, CSS, React and ties with APIs written in both Python and PHP.<br>
 	<br>
 <a href="https://erniejohnson.ca"><img src="https://img.shields.io/badge/my%20personal%20portfolio-8A2BE2?style=for-the-badge&logoColor=white" /></a>
