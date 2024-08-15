@@ -4,22 +4,28 @@
 
 ## About Me...
 
-Hello!  I'm Ernie, a fullstack web developer and software engineer with a focus on cross platform business applications for web, mobile and desktop systems.  I'm always open to new opportunities and collaborations, so feel free to get in touch if you have any questions or would like to discuss a project!
+Hello!  I'm Ernie, a fullstack web developer and cybersecurity specialist with a focus on cross platform business applications for web, mobile and desktop systems.  I'm always open to new opportunities and collaborations, so feel free to get in touch if you have any questions or would like to discuss a project!
 
 <a href="mailto:ej8899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="send email to ej8899@gmail.com" /></a>&nbsp;<a href="https://www.linkedin.com/in/ernie-johnson/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://twitter.com/ejdevscom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="check out my twitter posts"/></a>&nbsp;<a href="https://www.youtube.com/@erniejohnsonca?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;<a href="https://flowcv.com/resume/0chloacpte"><img alt="Static Badge" src="https://img.shields.io/badge/RESUME-8A2BE2?style=for-the-badge"></a>
-## Developer Experience...
+## IT Related Experience...
 
-- **2023 +**: HTML / CSS / JavaScript / PostgreSQL / Python & beyond
+- **2024**: M365 Tenant setup and administration, cybersecurity incident response, PowerApp development, Sharepoint development 
+- **2023**: HTML / CSS / JavaScript / PostgreSQL / Python & beyond
 - **2010's**: HTML / Wordpress
 - **2000's**: HTML / Perl / PHP / mySQL --> early days of e-commerce!
 - **2000's**: C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.
-- **1990's**: C / C++ --> Shareware & Commercial Application Developer (DOS/Windows)
+- **1990's**: C / C++ --> Shareware & Commercial Application Developer (DOS/Windows), own & operate 3-line BBS (EPIC BBS).
 - **1980's**: BASIC, Assembly --> Shareware Game Dev 🕹️ (Commodore & Tandy)
 
 
 ## Projects...
-> Here are some of my favorite projects I have worked on:
+> Here are some recent projects I have worked on:
 <table border=0>
+<tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>DFIRMadness - The Case of the Stolen Szechuan Sauce</b>
+	<br>A cybersecurity forensics analysis and subsequent report on this cyber attack, breach which included a malware deployment resulting in data manipulation and exfiltration from a ficticious businesses.  Analysis PCAP (Wireshark captures), memory and drive dumps and more.<br>
+	<br>
+<a href="https://github.com/ej8899/cyber101"><img src="https://img.shields.io/badge/This%20and%20more...-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</Td></tr>
 <tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>LearnThis!</b>
 	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br>
 <i>learned: React, Chrome Extensions, group project programming with tight deadlines</i>
@@ -36,8 +42,9 @@ Hello!  I'm Ernie, a fullstack web developer and software engineer with a focus 
 Feel free to explore these projects to get a sense of my coding style and the type of work I enjoy.
 
 
-## Skills...
+## IT Skills...
 
+- **Cybersecurity Frameworks**: ISO 27001, NIST, MITRE Att&CK, 
 - **Programming Languages**: 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🐍 Python.
 - **Frameworks/Libraries**: React, NodeJS, Express, Rails, JQuery, Boostrap, MaterialUI.
 - **Databases**: 🗄️ MySQL, 🗄️ PostgreSQL.
@@ -49,9 +56,10 @@ Feel free to explore these projects to get a sense of my coding style and the ty
 
 > I'm looking to collaborate on the following types of projects:
 
-- 🚧 Construction industry related development projects
-- 🗺️ Mapping related development projects
-- 💪 Health & Fitness related development projects
+- 🚧 Construction industry related projects
+- 🚔 Law Enforcement related projects
+- 🗺️ Mapping related projects
+- 💪 Health & Fitness related projects
 - 🕹️ RPG style game development
 
 > If you're working on any of these types of projects or have other exciting opportunities, feel free to reach out! I'm open to discussing new ideas and contributing to innovative projects.
@@ -69,9 +77,12 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 --->
 ## Certifications...
 > Completed:
+- Lighthouse Labs: Cybersecurity Specialist
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VDRRFKJ4ZAR8).
-- Lighthouse Labs Full Stack Web Developer.
+- Lighthouse Labs: Data Analysist
+- Lighthouse Labs: Full Stack Web Developer.
 > In Progress:
+- Microsoft Cybersecurity Professional Certification
 - Meta Front-End Developer Professional.
 - Google UX Design Professional.
 - Meta iOS Developer Professional.
