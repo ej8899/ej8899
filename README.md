@@ -12,6 +12,7 @@ Hello!  I'm Ernie, a fullstack web & app developer and cybersecurity specialist 
 - **2024 (January-)**: M365 Tenant setup and administration, cybersecurity incident response, PowerApp development, Sharepoint development.
 - **2024 (August):** Teach groups and one-on-one with Python coding, home labs, and cybersecurity awareness for business 
 - **2023**: HTML / CSS / JavaScript / PostgreSQL / Python & beyond
+- **2012+**: Critical Infrastructure Protection
 - **2010's**: HTML / Wordpress
 - **2000's**: HTML / Perl / PHP / mySQL --> early days of e-commerce!
 - **2000's**: C / C++ --> added Palm Pilot & 📟 Blackberry app development to the 'stack'.
