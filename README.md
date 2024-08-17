@@ -33,18 +33,31 @@ Here are some recent projects I have worked on:
 	<br>
 <a href="https://erniejohnson.ca"><img src="https://img.shields.io/badge/my%20personal%20portfolio-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>	
-<tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>LearnThis!</b>
+
+<tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>YourTab!</b>
+	<br>
+	This project stemmed off a freelance "new tab" page I had recently completed for a corporate client. I wanted to simply take that framework, add on a few features and make it publically usable. Besides, every developer project needs a to do list application in it - so why not put a to do list inside a more significant application!
+	<br>
+<i>learned: Chrome Extensions, HTML, CSS, jQuery</i>
+	<br>
+<a href="https://github.com/ej8899/lhlfinals"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+</Td></tr>
+
+<tr><td width=30%><img src="https://erniejohnson.ca/assets/yourtab6-6308cea3.png" width=300/></td><Td><b>YourTab!</b>
 	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br>
 <i>learned: React, Chrome Extensions, group project programming with tight deadlines</i>
 	<br>
 <a href="https://github.com/ej8899/lhlfinals"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
 </Td></tr>
+
+<!--
 <tr><td><img src="https://github.com/ej8899/lhl-midterm/raw/master/screenshots/screenshot-select.png" width=300/></td><Td><B>MapMy-Wiki</B>
 <br>MapMyWiki is geo-wiki type application created for LightHouseLabs.ca mid-term project to exercise our skills to date in the course including front and back end scripting in Javascript, Postgress SQL, HTML and CSS (via SASS).<br>
 <i>learned: advanced JQuery, database design, Google Maps API (& API data caching to save costs & time)</i>
 <br>
 <a href="https://github.com/ej8899/lhl-midterm"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-</Td></tr>
+</Td></tr> -->
+	
 </table>
 Feel free to explore these projects to get a sense of my coding style and the type of work I enjoy.
 
