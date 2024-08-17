@@ -44,6 +44,14 @@ Here are some recent projects I have worked on:
 <a href="https://erniejohnson.ca/clients/kiosk-demo/"><img src="https://img.shields.io/badge/live-8A2BE2?style=for-the-badge&logoColor=white" /></a>	
 </Td></tr>
 
+<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/b64-wordpress.webp" width=300/></td><Td><b>Wordpress Base64 Attack & Remediation</b>
+	<br>
+	Client discovered their Wordpress feeder web sites were non-functional and shut down by hosting company due to excessive bandwidth utilization. After not being successful in contacting their existing web developer, I was contacted and after a short investigation discovered they were hit with a PHP Base64 redirect malware attack on their server.   Performed a brief analysis, developed some custom Python code to recurse their file system and clean infected files.  Remvoved numerous unused FTP accounts, reset all existing passwords, developed a password policy for the company. Put them on credential leak monitoring service I created.  Test and re-instate web sites. 
+	<br>
+<a href="https://docs.google.com/document/d/1YAL9oZKKj-9ZovlHhfk0WGl1hoQ8ncX0cgTqtRaP1-8/edit?usp=sharing"><img src="https://img.shields.io/badge/redacted%20report-8A2BE2?style=for-the-badge&logoColor=white" /></a>	
+</Td></tr>
+
+
 <tr><td width=30%><img src="https://erniejohnson.ca/assets/yourtab6-6308cea3.png" width=300/></td><Td><b>YourTab!</b>
 	<br>
 	This project stemmed off a freelance "new tab" page I had recently completed for a corporate client. I wanted to simply take that framework, add on a few features and make it publically usable. Besides, every developer project needs a to do list application in it - so why not put a to do list inside a more significant application!
