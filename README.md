@@ -82,7 +82,8 @@ Here are some recent projects I have worked on:
 
 ## IT Skills...  
 
-- **Cybersecurity Frameworks**: ISO 27001, NIST, MITRE ATT&CK, 
+- **Cybersecurity Frameworks**: ISO 27001, NIST, MITRE ATT&CK,
+- **Cybersecurity Specialities**: Application Sececurity (AppSec) and Forensics & Incident Response (DFIR)
 - **Programming Languages**: 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🐍 Python.
 - **Frameworks/Libraries**: React, NodeJS, Express, Rails, JQuery, Boostrap, MaterialUI.
 - **Databases**: 🗄️ MySQL, 🗄️ PostgreSQL.
