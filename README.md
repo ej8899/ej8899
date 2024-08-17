@@ -86,7 +86,7 @@ Here are some recent projects I have worked on:
 - **Cybersecurity Specialities**: Application Sececurity (AppSec) and Forensics & Incident Response (DFIR)
 - **Programming Languages**: 💡 JavaScript, 🌐 HTML, 🎨 CSS, 💾 PHP, ⚙️ C, ⚙️ C++, 💎 Ruby, 🐪 Perl, 🐍 Python.
 - **Frameworks/Libraries**: React, NodeJS, Express, Rails, JQuery, Boostrap, MaterialUI.
-- **Databases**: 🗄️ MySQL, 🗄️ PostgreSQL.
+- **Databases**: 🗄️ MySQL, 🗄️ PostgreSQL, MongoDB.
 - **Testing**: Jest, Mocha, Chai, Storybook, Cypress.
 - **Code Editors**: ✒️ Sublime Text, ✒️ Visual Studio Code (VSCode).
 - **Operating Systems**: Windows, MacOS, Linux, iOS, Android.
