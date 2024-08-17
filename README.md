@@ -54,7 +54,7 @@ Here are some recent projects I have worked on:
 <a href="https://chrome.google.com/webstore/detail/lnakjbaboaknheaialecgjokpbgoljdc"><img src="https://img.shields.io/badge/live-8A2BE2?style=for-the-badge&logoColor=white" /></a>	
 </Td></tr>
 
-<tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>YourTab!</b>
+<tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>LearnThis!</b>
 	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br>
 <i>learned: React, Chrome Extensions, group project programming with tight deadlines</i>
 	<br>
