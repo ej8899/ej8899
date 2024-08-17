@@ -78,7 +78,6 @@ Here are some recent projects I have worked on:
 </Td></tr> -->
 	
 </table>
-Feel free to explore these projects to get a sense of my coding style and the type of work I enjoy.
 
 
 ## IT Skills...  
