@@ -9,7 +9,7 @@ Hello!  I'm Ernie, a fullstack web & app developer and cybersecurity specialist 
 <a href="https://erniejohnson.ca"><img alt="Link to ErnieJohnson.ca Portfolio" src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=google%20home&logoColor=white"></a>&nbsp;<a href="mailto:ej8899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="send email to ej8899@gmail.com" /></a>&nbsp;<a href="https://www.linkedin.com/in/ernie-johnson/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://twitter.com/ejdevscom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="check out my twitter posts"/></a>&nbsp;<a href="https://www.youtube.com/@erniejohnsonca?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;<a href="https://docs.google.com/document/d/1XCs8Z_gpaNc00l_rLoan0M1W8Td2Sg_DGThWnMTqOpc/edit?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/RESUME-8A2BE2?style=for-the-badge"></a>
 ## IT Related Experience...
 
-- **2024 (August):** Teach groups and one-on-one with Python coding, home labs, and cybersecurity awareness for business 
+- **2024 (August):** Teach groups and one-on-one with Python coding, home labs, and cybersecurity awareness for business. Configure and deploy VM server to allow students with under powered computers remote access to perform 'lab' work for projects on virtual machines (Windows & Linux systems).
 - **2024 (January-)**: M365 Tenant setup and administration, cybersecurity incident response, PowerApp development, Sharepoint development.
 - **2023**: HTML / CSS / JavaScript / PostgreSQL / Python & beyond
 - **2012+**: Critical Infrastructure Protection
@@ -24,7 +24,7 @@ Hello!  I'm Ernie, a fullstack web & app developer and cybersecurity specialist 
 Here are some recent projects I have worked on:
 <table border=0>
 <tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/szechuan_sauce.png" width=300/></td><Td><b>DFIRMadness - The Case of the Stolen Szechuan Sauce</b>
-	<br>A cybersecurity forensics analysis and subsequent report on this cyber attack, breach which included a malware deployment resulting in data manipulation and exfiltration from a ficticious businesses.  Analysis PCAP (Wireshark captures), memory and drive dumps and more.<br>
+	<br>A cybersecurity forensics analysis and subsequent report on this cyber attack and subsequent breach which included a malware deployment resulting in data manipulation and exfiltration from a ficticious businesses.  Analysis PCAP (Wireshark captures), memory and drive dumps and more.<br>
 	<br>
 <a href="https://docs.google.com/document/d/16wZo-yVpbP1QUvdKIwgwKlAhjUMXanVGM2qfu5GTSjA/edit?usp=sharing"><img src="https://img.shields.io/badge/Szechuan%20Shenanigans-8A2BE2?style=for-the-badge&logoColor=white" /></a>&nbsp;<a href="https://github.com/ej8899/cyber101"><img src="https://img.shields.io/badge/my%20cybersecurity%20profile-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>
