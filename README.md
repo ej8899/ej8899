@@ -34,12 +34,12 @@ Here are some recent projects I have worked on:
 <a href="https://erniejohnson.ca"><img src="https://img.shields.io/badge/my%20personal%20portfolio-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>	
 
-<tr><td width=30%><img src="https://erniejohnson.ca/assets/yourtab6-6308cea3.png" width=300/></td><Td><b>Company Kiosk</b>
+<tr><td width=30%><img src="https://erniejohnson.ca/assets/1-4d7fb135.jpg" width=300/></td><Td><b>Company Kiosk</b>
 	<br>
 	Our client was looking for an internal kiosk type application to present upcoming events and information to both staff and visitors to the office on various screens throughout their business environment. The client was looking for a simple, yet effective solution that would be easy to maintain and update.  A modified version of this project code is now deployed in multiple companies in Canada and the USA. 
 	<br>
 <i>learned: remote management strategies, client/server updating, </i>
-	<br>https://erniejohnson.ca/clients/kiosk-demo/
+	<br>
 <a href="https://github.com/ej8899/mykiosk"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
 <a href="https://erniejohnson.ca/clients/kiosk-demo/"><img src="https://img.shields.io/badge/live-8A2BE2?style=for-the-badge&logoColor=white" /></a>	
 </Td></tr>
