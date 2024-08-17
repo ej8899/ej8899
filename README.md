@@ -34,14 +34,24 @@ Here are some recent projects I have worked on:
 <a href="https://erniejohnson.ca"><img src="https://img.shields.io/badge/my%20personal%20portfolio-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>	
 
-<tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>YourTab!</b>
+<tr><td width=30%><img src="https://erniejohnson.ca/assets/yourtab6-6308cea3.png" width=300/></td><Td><b>Company Kiosk</b>
+	<br>
+	Our client was looking for an internal kiosk type application to present upcoming events and information to both staff and visitors to the office on various screens throughout their business environment. The client was looking for a simple, yet effective solution that would be easy to maintain and update.  A modified version of this project code is now deployed in multiple companies in Canada and the USA. 
+	<br>
+<i>learned: remote management strategies, client/server updating, </i>
+	<br>https://erniejohnson.ca/clients/kiosk-demo/
+<a href="https://github.com/ej8899/mykiosk"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://erniejohnson.ca/clients/kiosk-demo/"><img src="https://img.shields.io/badge/live-8A2BE2?style=for-the-badge&logoColor=white" /></a>	
+</Td></tr>
+
+<tr><td width=30%><img src="https://erniejohnson.ca/assets/yourtab6-6308cea3.png" width=300/></td><Td><b>YourTab!</b>
 	<br>
 	This project stemmed off a freelance "new tab" page I had recently completed for a corporate client. I wanted to simply take that framework, add on a few features and make it publically usable. Besides, every developer project needs a to do list application in it - so why not put a to do list inside a more significant application!
 	<br>
 <i>learned: Chrome Extensions, HTML, CSS, jQuery</i>
 	<br>
-<a href="https://github.com/ej8899/lhlfinals"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://chrome.google.com/webstore/detail/lnakjbaboaknheaialecgjokpbgoljdc"><img src="https://img.shields.io/badge/live-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>	
+<a href="https://github.com/ej8899/newtab"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://chrome.google.com/webstore/detail/lnakjbaboaknheaialecgjokpbgoljdc"><img src="https://img.shields.io/badge/live-8A2BE2?style=for-the-badge&logoColor=white" /></a>	
 </Td></tr>
 
 <tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>YourTab!</b>
