@@ -31,14 +31,18 @@ Here are some recent projects I have worked on:
 	<a href="https://docs.google.com/document/d/16wZo-yVpbP1QUvdKIwgwKlAhjUMXanVGM2qfu5GTSjA/edit?usp=sharing"><img src="https://img.shields.io/badge/Szechuan%20Shenanigans-8A2BE2?style=for-the-badge&logoColor=white" /></a>&nbsp;<a href="https://github.com/ej8899/cyber101"><img src="https://img.shields.io/badge/my%20cybersecurity%20profile-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>
 
-<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/vmlab.png" width=300/></td><Td><b>Remote VM Lab Server</b>
+<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/vmlab.png" width=300/></td><Td>
+	<img alt="Static Badge" src="https://img.shields.io/badge/HOMELAB-1560BD"><br clear=all>
+	<b>Remote VM Lab Server</b>
 	<br>As a part of my homelab, I created a virtual machine server environment to assist students with lesser powered home computers not well capable for running multiple virtual machines at a time. Students get dedicated VM's and access via secured RDP. VM's are typically 8gb RAM, 60Gb storage space, 2 processor cores and 128Mb video RAM.<br>
 	<br>
 <a href="https://github.com/ej8899/cyber101/blob/main/homelab/links.md"><img src="https://img.shields.io/badge/learn%20to%20build%20a%20homelab-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>
 
  
-<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/project-ejca.png" width=300/></td><Td><b>ErnieJohnson.ca - Personal Portfolio</b>
+<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/project-ejca.png" width=300/></td><Td>
+	<img alt="Static Badge" src="https://img.shields.io/badge/WEB_APP-ff8b3d"><br clear=all>
+	<b>ErnieJohnson.ca - Personal Portfolio</b>
 	<br>Develop and maintain a custom portfolio web site to showcase not only completed projects, but web development skills of the portfolio site itself. It utilizes HTML, CSS, React and ties with APIs written in both Python and PHP.<br>
 	<br>
 <a href="https://erniejohnson.ca"><img src="https://img.shields.io/badge/my%20personal%20portfolio-8A2BE2?style=for-the-badge&logoColor=white" /></a>
