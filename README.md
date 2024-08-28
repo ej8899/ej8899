@@ -32,7 +32,7 @@ Here are some recent projects I have worked on:
 </Td></tr>
 
 <tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/vmlab.png" width=300/></td><Td>
-	<img alt="Static Badge" src="https://img.shields.io/badge/HOMELAB-1560BD"><br clear=all>
+	<img alt="Static Badge" src="https://img.shields.io/badge/HOMELAB-1560BD">&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/CYBERSECURITY-008080"><br clear=all>
 	<b>Remote VM Lab Server</b>
 	<br>As a part of my homelab, I created a virtual machine server environment to assist students with lesser powered home computers not well capable for running multiple virtual machines at a time. Students get dedicated VM's and access via secured RDP. VM's are typically 8gb RAM, 60Gb storage space, 2 processor cores and 128Mb video RAM.<br>
 	<br>
@@ -48,7 +48,9 @@ Here are some recent projects I have worked on:
 <a href="https://erniejohnson.ca"><img src="https://img.shields.io/badge/my%20personal%20portfolio-8A2BE2?style=for-the-badge&logoColor=white" /></a>
 </Td></tr>	
 
-<tr><td width=30%><img src="https://erniejohnson.ca/assets/1-4d7fb135.jpg" width=300/></td><Td><b>Company Kiosk</b>
+<tr><td width=30%><img src="https://erniejohnson.ca/assets/1-4d7fb135.jpg" width=300/></td><Td>
+	<img alt="Static Badge" src="https://img.shields.io/badge/WEB_APP-ff8b3d"><br clear=all>
+	<b>Company Kiosk</b>
 	<br>
 	Our client was looking for an internal kiosk type application to present upcoming events and information to both staff and visitors to the office on various screens throughout their business environment. The client was looking for a simple, yet effective solution that would be easy to maintain and update.  A modified version of this project code is now deployed in multiple companies in Canada and the USA. 
 	<br>
@@ -58,7 +60,9 @@ Here are some recent projects I have worked on:
 <a href="https://erniejohnson.ca/clients/kiosk-demo/"><img src="https://img.shields.io/badge/live-8A2BE2?style=for-the-badge&logoColor=white" /></a>	
 </Td></tr>
 
-<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/b64-wordpress.webp" width=300/></td><Td><b>Wordpress Base64 Attack & Remediation</b>
+<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/b64-wordpress.webp" width=300/></td><Td>
+	<img alt="Static Badge" src="https://img.shields.io/badge/CYBERSECURITY-008080"><br clear=all>
+	<b>Wordpress Base64 Attack & Remediation</b>
 	<br>
 	Client discovered their Wordpress feeder web sites were non-functional and shut down by hosting company due to excessive bandwidth utilization. After not being successful in contacting their existing web developer, I was contacted and after a short investigation discovered they were hit with a PHP Base64 redirect malware attack on their server.   Performed a brief analysis, developed some custom Python code to recurse their file system and clean infected files.  Remvoved numerous unused FTP accounts, reset all existing passwords, developed a password policy for the company. Put them on credential leak monitoring service I created.  Test and re-instate web sites. 
 	<br>
@@ -66,7 +70,9 @@ Here are some recent projects I have worked on:
 </Td></tr>
 
 
-<tr><td width=30%><img src="https://erniejohnson.ca/assets/yourtab6-6308cea3.png" width=300/></td><Td><b>YourTab!</b>
+<tr><td width=30%><img src="https://erniejohnson.ca/assets/yourtab6-6308cea3.png" width=300/></td><Td>
+	<img alt="Static Badge" src="https://img.shields.io/badge/WEB_APP-ff8b3d"><br clear=all>
+	<b>YourTab!</b>
 	<br>
 	This project stemmed off a freelance "new tab" page I had recently completed for a corporate client. I wanted to simply take that framework, add on a few features and make it publically usable. Besides, every developer project needs a to do list application in it - so why not put a to do list inside a more significant application!
 	<br>
@@ -76,7 +82,9 @@ Here are some recent projects I have worked on:
 <a href="https://chrome.google.com/webstore/detail/lnakjbaboaknheaialecgjokpbgoljdc"><img src="https://img.shields.io/badge/live-8A2BE2?style=for-the-badge&logoColor=white" /></a>	
 </Td></tr>
 
-<tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td><b>LearnThis!</b>
+<tr><td width=30%><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td>
+	<img alt="Static Badge" src="https://img.shields.io/badge/WEB_APP-ff8b3d"><br clear=all>
+	<b>LearnThis!</b>
 	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br>
 <i>learned: React, Chrome Extensions, group project programming with tight deadlines</i>
 	<br>
