@@ -24,7 +24,7 @@ Hello!  I'm Ernie, a fullstack web & app developer and cybersecurity specialist 
 Here are some recent projects I have worked on:
 <table border=0>
 <tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/szechuan_sauce.png" width=300/></td><Td>
-	![Static Badge](https://img.shields.io/badge/cybersecurity?style=flat)
+	<img alt="Static Badge" src="https://img.shields.io/badge/cybersecurity?style=flat"><br clear=all>
 <b>DFIRMadness - The Case of the Stolen Szechuan Sauce</b>
 	<br>A cybersecurity forensics analysis and subsequent report on this cyber attack and subsequent breach which included a malware deployment resulting in data manipulation and exfiltration from a ficticious businesses.  Analysis PCAP (Wireshark captures), memory and drive dumps and more.<br>
 	<br>
