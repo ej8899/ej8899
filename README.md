@@ -23,7 +23,9 @@ Hello!  I'm Ernie, a fullstack web & app developer and cybersecurity specialist 
 ## Projects...  
 Here are some recent projects I have worked on:
 <table border=0>
-<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/szechuan_sauce.png" width=300/></td><Td><b>DFIRMadness - The Case of the Stolen Szechuan Sauce</b>
+<tr><td width=30%><img src="https://github.com/ej8899/cyber101/blob/main/github_assets/szechuan_sauce.png" width=300/></td><Td>
+	![Static Badge](https://img.shields.io/badge/cybersecurity?style=flat)
+<b>DFIRMadness - The Case of the Stolen Szechuan Sauce</b>
 	<br>A cybersecurity forensics analysis and subsequent report on this cyber attack and subsequent breach which included a malware deployment resulting in data manipulation and exfiltration from a ficticious businesses.  Analysis PCAP (Wireshark captures), memory and drive dumps and more.<br>
 	<br>
 	<a href="https://docs.google.com/document/d/16wZo-yVpbP1QUvdKIwgwKlAhjUMXanVGM2qfu5GTSjA/edit?usp=sharing"><img src="https://img.shields.io/badge/Szechuan%20Shenanigans-8A2BE2?style=for-the-badge&logoColor=white" /></a>&nbsp;<a href="https://github.com/ej8899/cyber101"><img src="https://img.shields.io/badge/my%20cybersecurity%20profile-8A2BE2?style=for-the-badge&logoColor=white" /></a>
