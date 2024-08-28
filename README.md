@@ -49,7 +49,7 @@ Here are some recent projects I have worked on:
 </Td></tr>	
 
 <tr><td width=30% valign=top><img src="https://erniejohnson.ca/assets/1-4d7fb135.jpg" width=300/></td><Td valign=top>
-	<a href="#"><img alt="App Development Tag" src="https://img.shields.io/badge/WEB_APP-ff8b3d"></a>
+	<a href="#"><img alt="App Development Tag" src="https://img.shields.io/badge/WEB_APP-ff8b3d"></a><br clear=all>
 	<b>Company Kiosk</b>
 	<br>
 	Our client was looking for an internal kiosk type application to present upcoming events and information to both staff and visitors to the office on various screens throughout their business environment. The client was looking for a simple, yet effective solution that would be easy to maintain and update.  A modified version of this project code is now deployed in multiple companies in Canada and the USA. 
