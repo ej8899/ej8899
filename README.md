@@ -1,4 +1,4 @@
-<img src="gitbanner.png" alt="send email to ej8899@gmail.com" />
+<img src="gitbanner-2024.png" alt="send email to ej8899@gmail.com" />
 
 # 👋 Welcome to My GitHub Profile!
 
