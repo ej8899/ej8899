@@ -85,7 +85,7 @@ Here are some recent projects I have worked on:
 <tr><td width=30% valign=top><img src="https://github.com/ej8899/lhlfinals/raw/main/screenshots/title.jpg" width=300/></td><Td valign=top>
 	<a href="#"><img alt="App Development Tag" src="https://img.shields.io/badge/WEB_APP-ff8b3d"></a><br clear=all>
 	<b>LearnThis!</b>
-	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br>
+	<br>Keep your developer resource bookmarks all in one convenient location while having a quick organizational system and a built in "auto learning" algorithm to actually study from your saved materials in a logical, sorted method (derived from crowd-sourced data).<br><br>This was a group project in which I took the project manager and front end developer role.  
 <i>learned: React, Chrome Extensions, group project programming with tight deadlines</i>
 	<br>
 <a href="https://github.com/ej8899/lhlfinals"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
